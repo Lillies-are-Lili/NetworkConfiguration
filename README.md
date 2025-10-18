@@ -17,6 +17,7 @@ I first enabled a password with the command:
 _enable secret password_
 
 This command uses MD5 encryption, and makes user-exec mode users input a password before they can get into privileged mode.
+
 <img width="472" height="288" alt="Screenshot 2025-10-18 at 5 05 14 PM" src="https://github.com/user-attachments/assets/c7787415-6f5c-45f6-b223-2c2aef760c9e" />
 
 
@@ -49,6 +50,7 @@ I also enabled Spanning tree portfast and BPDU guard with the trunk VLANs. The c
 _spanning-tree portfast default_
 
 _spanning-tree portfast bpduguard default_
+
 <img width="403" height="397" alt="Screenshot 2025-10-18 at 5 10 58 PM" src="https://github.com/user-attachments/assets/c9064b3f-1a5a-412c-ba83-066fa564da56" />
 
 
@@ -65,9 +67,11 @@ _sw trunk encap dot1q_
 
 _sw mode trunk_
 int g0/7-8 I utilized the 802.3ad protocol, or LACP.
+
 <img width="508" height="351" alt="Screenshot 2025-10-18 at 5 02 25 PM" src="https://github.com/user-attachments/assets/bea95d91-3ee5-4433-a3d1-f55d888f635e" />
 
 For int g0/10-11, I used Cisco's PAgP protocol, using similar commands except instead of active I used desirable.
+
 <img width="494" height="338" alt="Screenshot 2025-10-18 at 5 01 45 PM" src="https://github.com/user-attachments/assets/cbe10b97-ca6e-44b2-a4e8-f8f635f5d11a" />
 
 
@@ -118,6 +122,7 @@ Here's a screenshot of part of my running-config file.
 
 ## Logical Topology
 Here's a picture of the logical topology I made with Microsoft's Visio.
+
 <img width="512" height="312" alt="Screenshot 2025-10-18 at 5 07 37 PM" src="https://github.com/user-attachments/assets/2d98f15e-7e44-483c-9c05-c9ba9e22fb68" />
 
 
