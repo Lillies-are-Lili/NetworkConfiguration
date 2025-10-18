@@ -104,7 +104,7 @@ _no shutdown_
 <img width="652" height="372" alt="Screenshot 2025-10-18 at 5 00 12 PM" src="https://github.com/user-attachments/assets/db2bd5e9-1fff-47fe-b69c-1513dcdbc7ed" />
 
 ## Running-Config
-Here's a screenshot of my running-config file. 
+Here's a screenshot of part of my running-config file. 
 <img width="205" height="358" alt="Screenshot 2025-10-18 at 5 07 49 PM" src="https://github.com/user-attachments/assets/5be4ef04-f479-4eb0-b106-26d3ad7fa90a" />
 
 ## Logical Topology
