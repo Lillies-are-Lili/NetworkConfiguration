@@ -136,3 +136,13 @@ Overall, it was a lot of fun working with a physical switch. It felt like I was 
 <img width="445" height="165" alt="Screenshot 2026-04-09 at 11 09 33" src="https://github.com/user-attachments/assets/dee6ba41-7eba-40c0-85fc-e704157d4d8d" />
 <img width="251" height="66" alt="Screenshot 2026-04-09 at 11 09 47" src="https://github.com/user-attachments/assets/5bcb2dd7-de77-4953-96c8-f9a202d8eb65" />
 
+### Enabling DNS
+<img width="673" height="249" alt="Screenshot 2026-04-09 at 11 14 43" src="https://github.com/user-attachments/assets/60d8d583-763c-474b-8c38-6553b7a3b9c6" />
+<img width="212" height="66" alt="Screenshot 2026-04-09 at 11 16 19" src="https://github.com/user-attachments/assets/0b426281-768d-4ef8-a10d-43257f22cc9e" />
+
+### Enabling NAT/PAT
+<img width="578" height="205" alt="Screenshot 2026-04-09 at 11 20 31" src="https://github.com/user-attachments/assets/b2aa7516-e3b3-4b87-9bcf-3782ba729790" />
+<img width="535" height="148" alt="Screenshot 2026-04-09 at 11 21 26" src="https://github.com/user-attachments/assets/19fb9280-dd59-41b8-a21e-2ca99ac070bc" />
+### PAT
+<img width="529" height="150" alt="Screenshot 2026-04-09 at 11 23 44" src="https://github.com/user-attachments/assets/082cec0f-49bc-44cc-a96f-724bc202bfaf" />
+
