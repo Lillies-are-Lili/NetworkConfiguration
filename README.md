@@ -128,3 +128,11 @@ Here's a picture of the logical topology I made with Microsoft's Visio.
 
 ## Lessons Learned
 Overall, it was a lot of fun working with a physical switch. It felt like I was back in Packet Tracer, except I could do whatever I wanted. I reinforced a lot of concepts from my CCNA learnings, and I realized how much Packet Tracer is just like a switch. I learned how to use PuTTY to get access to the switch, and I learned how to physically set up one. This was a great lab that made me appreciate networking all the more. 
+
+
+
+## Additional Activities
+### Enabling DHCP Snooping, IP Arp Inspection, and Port Security
+<img width="445" height="165" alt="Screenshot 2026-04-09 at 11 09 33" src="https://github.com/user-attachments/assets/dee6ba41-7eba-40c0-85fc-e704157d4d8d" />
+<img width="251" height="66" alt="Screenshot 2026-04-09 at 11 09 47" src="https://github.com/user-attachments/assets/5bcb2dd7-de77-4953-96c8-f9a202d8eb65" />
+
